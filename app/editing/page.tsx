@@ -85,7 +85,7 @@ const works = [
     isSeries: false,
     mediaType: 'image',
     mediaUrl: '/images/lilad.jpg', // ?si= 부분은 지워도 무방합니다
-    description: "징버거님의 쇼츠 '그 시절 지식인 답장'을 편집했습니다. 패턴형 배경을 추가해 쇼츠에 적용하는 시도를 한 작업입니다.",
+    description: "릴파님의 생일을 기념해 홍대입구 생일광고 영상 편집을 담당했습니다.",
     actionLink: 'https://x.com/giftreeofficial/status/2029010532616028170?s=20', 
     actionText: '홍대입구로 광고 보러가기'
   },
